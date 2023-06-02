@@ -1,0 +1,23 @@
+/* add your css here */
+body {
+    text-align: center;
+    background-color: #90BB8E;
+    padding: 0 20%;
+}
+
+h3 {
+    background-color: #F0E68D;
+    padding: 10px;
+    padding-bottom: 20px;
+    border: dashed 3px #80017E;
+    margin: 0;
+}
+
+main {
+    background-color: #D3D3D3;
+    padding-top: 20px;
+}
+
+main div {
+    margin-top: 20px;
+}
